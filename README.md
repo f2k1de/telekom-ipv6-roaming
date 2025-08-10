@@ -53,3 +53,11 @@ Stand: 26.07.2025
 - Telemach (29370):  ✅ ja
 - Mobitel(29341): ✅ ja
 - T-2 (29364): ⛔️ Nicht einbuchbar
+
+# Italien
+Stand 10.08.2025
+- TIM : ✅ ja
+- WindTre : ❌ nein
+- Iliad : ✅ ja
+- Vodafone IT : ❌ nein
+
